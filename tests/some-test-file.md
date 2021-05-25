@@ -1,5 +1,7 @@
 # some test
 
+![cat playing](./assets/chat.jpg)
+
 ## prerequisites
 
 * one
