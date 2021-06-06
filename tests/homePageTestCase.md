@@ -20,4 +20,4 @@ see [login page test](./loginTestCase.md)
 1. Test a name duplication in the test suites
 2. Choose a non existing git repo
 3. Choose a locked SSH key
-4. 
+4. Select a user and validate its name
