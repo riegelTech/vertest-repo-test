@@ -1,5 +1,5 @@
 Inclusion starts here
 
-!!!include(../../../README.md)!!!
+!!!include(../../../package.json)!!!
 
 Inclusion stops here
