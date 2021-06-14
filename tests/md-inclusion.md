@@ -1,5 +1,5 @@
 Inclusion starts here
 
-!!!include(./loginTestCase.json)!!!
+!!!include(./loginTestCase.md)!!!
 
 Inclusion stops here
