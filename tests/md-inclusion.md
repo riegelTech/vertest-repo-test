@@ -1,5 +1,5 @@
 Inclusion starts here
 
-!!!include(../../../loginTestCase.md)!!!
+!!!include(../../../README.md)!!!
 
 Inclusion stops here
