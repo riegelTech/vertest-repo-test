@@ -1,5 +1,5 @@
 Inclusion starts here
 
-!!!include(../../../package.json)!!!
+!!!include(./loginTestCase.json)!!!
 
 Inclusion stops here
