@@ -2,4 +2,4 @@
 
 !!!include(./simple-content.md)!!!
 
-Some native text, now modified
+Some native text
