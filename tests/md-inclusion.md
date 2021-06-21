@@ -1,5 +1,11 @@
-Inclusion starts here
+# First part
 
-!!!include(../../../package.json)!!!
+A recursive inclusion
 
-Inclusion stops here
+!!!include(./inclusions/content-with-inclusion.md)!!!
+
+# Second part
+
+A non-recursive inclusion
+
+!!!include(./inclusions/simple-content.md)!!!
