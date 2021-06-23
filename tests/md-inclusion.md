@@ -9,3 +9,5 @@ A recursive inclusion
 A non-recursive inclusion
 
 !!!include(./inclusions/simple-content.md)!!!
+
+An add to the end of the file
