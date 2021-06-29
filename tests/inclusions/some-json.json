@@ -1,0 +1,9 @@
+{
+    "some key": {
+        "some sub key": [
+            "array entry 1",
+            "array entry 2",
+            "array entry 2"
+        ]
+    }
+}
