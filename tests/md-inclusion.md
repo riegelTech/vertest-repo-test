@@ -9,3 +9,9 @@ A recursive inclusion
 A non-recursive inclusion
 
 !!!include(./inclusions/simple-content.md)!!!
+
+## Advnced trick
+
+```json
+!!!include(./inclusions/some-json.json)!!!
+```
